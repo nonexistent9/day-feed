@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>Varun — My Day</title>
-<link>https://example.github.io/day-feed</link>
-<description>Today's schedule and tasks · updated 11:04pm</description>
+<link>https://github.com/nonexistent9/day-feed</link>
+<description>Today's schedule and tasks · updated 9:31am</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 11 Jun 2026 23:04:57 -0700</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 09:31:03 -0700</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title>📅 Thursday, Jun 11</title>
 <description>&lt;b&gt;9 meetings&lt;/b&gt; &amp;middot; &lt;b&gt;1 overdue&lt;/b&gt;, &lt;b&gt;4 due today&lt;/b&gt;</description>
 <guid isPermaLink="false">myday-2026-06-11-glance</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>7:00a–8:00a  Alchemy Weekly Sync</title>
 <description>&lt;a href="https://meet.google.com/voa-mrfn-gza"&gt;https://meet.google.com/voa-mrfn-gza&lt;/a&gt;</description>
 <guid isPermaLink="false">myday-2026-06-11-ev-0</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>9:00a–9:30a  Drew &lt;&gt; Triad Labs</title>
 <description>&lt;a href="https://meet.google.com/xdh-foei-oxi"&gt;https://meet.google.com/xdh-foei-oxi&lt;/a&gt;</description>
 <guid isPermaLink="false">myday-2026-06-11-ev-1</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>9:30a–10:00a  GitHub call</title>
 <guid isPermaLink="false">myday-2026-06-11-ev-2</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>10:00a–11:00a  🔒 Hold — Cohesity: Internext Core Team Sync</title>
 <guid isPermaLink="false">myday-2026-06-11-ev-3</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>11:00a–11:30a  Onboarding session</title>
 <guid isPermaLink="false">myday-2026-06-11-ev-4</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>11:30a–12:15p  FidoCure &lt;&gt; Triad Labs</title>
 <description>&lt;a href="https://meet.google.com/orf-mpfg-gym"&gt;https://meet.google.com/orf-mpfg-gym&lt;/a&gt;</description>
 <guid isPermaLink="false">myday-2026-06-11-ev-5</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>2:30p–5:00p  🔒 Hold — Cohesity: Deep Dive – Onboarding</title>
 <guid isPermaLink="false">myday-2026-06-11-ev-6</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>3:00p–4:00p  Connect with Jatin</title>
 <guid isPermaLink="false">myday-2026-06-11-ev-7</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>3:00p–3:45p  🔒 Hold — Cohesity: Kadence App standup</title>
 <guid isPermaLink="false">myday-2026-06-11-ev-8</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>⚠️ Confirm Friday time with Ravi for the rescheduled call + add to calendar  · overdue</title>
 <description>&lt;i&gt;VetGPT&lt;/i&gt;&lt;br/&gt;Ravi agreed to move Tue call to Friday. Propose a time (free before 6am PT / after 1pm PT).</description>
 <guid isPermaLink="false">myday-2026-06-11-od-0</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>☐ VetGPT: Auth0 sign-in CI test failing on every run (36h+) — have eng investigate  · today</title>
 <description>&lt;i&gt;VetGPT&lt;/i&gt;&lt;br/&gt;engineering-alerts firing 'Auth0 Sign-in Test Failed' on every CI run 36h+. Also Sentry 429/500 on specialists chat stream.</description>
 <guid isPermaLink="false">myday-2026-06-11-dt-0</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>☐ Reply to Ravi: take on 'AI specialists as hero feature' on vetgpt.com (+ Ferran's GitHub email)  · today</title>
 <description>&lt;i&gt;VetGPT&lt;/i&gt;&lt;br/&gt;Draft reply is in your dashboard.</description>
 <guid isPermaLink="false">myday-2026-06-11-dt-1</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>☐ Review &amp; accept tomorrow's invites — Drew 9:00am, FidoCure 11:30am (check vs Cohesity)  · today</title>
 <description>&lt;i&gt;Inbox&lt;/i&gt;</description>
 <guid isPermaLink="false">myday-2026-06-11-dt-2</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>☐ [FidoCure] Prep for 11:30am call — Claude Team plan + Anthropic credits ask  · today</title>
 <description>&lt;i&gt;Inbox&lt;/i&gt;&lt;br/&gt;PT Black wants to consolidate Claude usage onto a Team plan + shape the Anthropic credits ask.</description>
 <guid isPermaLink="false">myday-2026-06-11-dt-3</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 <item>
 <title>Other open tasks (10)</title>
 <description>• Decide on Vanta SOC 2 + HIPAA compliance (reply drafted to Joanna) (due Jun 13) [VetGPT]&lt;br/&gt;• Brent follow up (due Jun 17) [Inbox]&lt;br/&gt;• STEM OPT Check In (due Jul 11) [Inbox]&lt;br/&gt;• Glean MCP [Inbox]&lt;br/&gt;• FidoCure [Inbox]&lt;br/&gt;• Confirm with Lauren: Alchemy Slack channels configured [Alloy]&lt;br/&gt;• Sync with Ferran on thread-based onboarding design (Cleo) [Alloy]&lt;br/&gt;• Schedule Alloy follow-up session: scheduling triggers + testing [Alloy]&lt;br/&gt;• Run org-wide Cleo admin connection flow (Alloy) [Alloy]&lt;br/&gt;• Follow up on Mayo Clinic intro (via Lauren Kellum) [Alloy]</description>
 <guid isPermaLink="false">myday-2026-06-11-later</guid>
-<pubDate>Thu, 11 Jun 2026 23:04:57 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 09:31:03 -0700</pubDate>
 </item>
 </channel></rss>
