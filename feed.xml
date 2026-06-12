@@ -2,88 +2,88 @@
 <rss version="2.0"><channel>
 <title>Varun — My Day</title>
 <link>https://github.com/nonexistent9/day-feed</link>
-<description>Today's schedule and tasks · updated 11:09am</description>
+<description>Today's schedule and tasks · updated 12:09pm</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 12 Jun 2026 11:09:30 -0700</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 12:09:41 -0700</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title>📅 Friday, Jun 12</title>
 <description>&lt;b&gt;7 meetings&lt;/b&gt; &amp;middot; &lt;b&gt;5 overdue&lt;/b&gt;, &lt;b&gt;0 due today&lt;/b&gt;&lt;br/&gt;Next: 1:15p Appt</description>
 <guid isPermaLink="false">myday-2026-06-12-glance</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>9:00a–9:45a  VetGPT/Triad Labs - Weekly Sync up</title>
 <description>&lt;a href="https://meet.google.com/zrq-ksmz-rkd"&gt;https://meet.google.com/zrq-ksmz-rkd&lt;/a&gt;</description>
 <guid isPermaLink="false">myday-2026-06-12-ev-0</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>10:00a–11:00a  🔒 Hold — Cohesity: Weekly Update (Ent Tech / AI WebApp)</title>
 <guid isPermaLink="false">myday-2026-06-12-ev-1</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>11:00a–11:30a  Triad Block</title>
 <description>&lt;a href="https://meet.google.com/ofp-miaf-vit"&gt;https://meet.google.com/ofp-miaf-vit&lt;/a&gt;</description>
 <guid isPermaLink="false">myday-2026-06-12-ev-2</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>11:00a–11:45a  Weekly Sync</title>
 <description>&lt;a href="https://meet.google.com/jvk-bhfo-qjf"&gt;https://meet.google.com/jvk-bhfo-qjf&lt;/a&gt;</description>
 <guid isPermaLink="false">myday-2026-06-12-ev-3</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>1:15p–2:15p  Appt</title>
 <guid isPermaLink="false">myday-2026-06-12-ev-4</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>3:00p–4:00p  Connect with Jatin</title>
 <guid isPermaLink="false">myday-2026-06-12-ev-5</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>3:00p–3:45p  🔒 Hold — Cohesity: Kadence App standup</title>
 <guid isPermaLink="false">myday-2026-06-12-ev-6</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>⚠️ Review &amp; accept tomorrow's invites — Drew 9:00am, FidoCure 11:30am (check vs Cohesity)  · overdue</title>
 <description>&lt;i&gt;Inbox&lt;/i&gt;&lt;br/&gt;Ferran sent two Thu Jun 11 invites: 'Call with Drew' 9-9:30am and 'FidoCure &amp;lt;&amp;gt; Triad Labs' 11:30am. Accept/adjust and make sure they don't clash with your Cohesity blocks.</description>
 <guid isPermaLink="false">myday-2026-06-12-od-0</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>⚠️ [FidoCure] Prep for 11:30am call — Claude Team plan + Anthropic credits ask  · overdue</title>
 <description>&lt;i&gt;Inbox&lt;/i&gt;&lt;br/&gt;PT Black (FidoCure) wants to consolidate Christina &amp;amp; Rodrigo's Claude usage onto a Claude Team plan and wants help shaping their 'ask' for an upcoming Anthropic meeting (credits for YC-backed AI-first companies). Ferran booked 11:30am Thu. Gmail thread subject: 'OpenClaw / Cla…</description>
 <guid isPermaLink="false">myday-2026-06-12-od-1</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>⚠️ VetGPT: Auth0 sign-in CI test failing on every run (36h+) — have eng investigate  · overdue</title>
-<description>&lt;i&gt;VetGPT&lt;/i&gt;&lt;br/&gt;engineering-alerts has fired 'Auth0 Sign-in Test Failed' (ailovet/ailovet-bam) on essentially every CI run for 36h+. Also Sentry: Semantic Scholar API 429/500 on /api/specialists/chat/stream.</description>
+<description>&lt;i&gt;VetGPT&lt;/i&gt;&lt;br/&gt;engineering-alerts has fired 'Auth0 Sign-in Test Failed' (ailovet/ailovet-bam) on essentially every CI run for 36h+. Also Sentry: Semantic Scholar API 429/500 on /api/specialists/chat/stream. Channel: https://dvmsuccess.slack.com/archives/C0905L5PN56</description>
 <guid isPermaLink="false">myday-2026-06-12-od-2</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>⚠️ Reply to Ravi: your take on 'AI specialists as the hero feature' on vetgpt.com (+ send Ferran's GitHub email)  · overdue</title>
-<description>&lt;i&gt;VetGPT&lt;/i&gt;&lt;br/&gt;Ravi wants to put the dvm.com AI-specialists graphic in the vetgpt.com top fold to differentiate, and asked for Ferran's GitHub email (or superravi to queue a PR). Draft reply is in your dashboard.</description>
+<description>&lt;i&gt;VetGPT&lt;/i&gt;&lt;br/&gt;Ravi wants to put the dvm.com AI-specialists graphic in the vetgpt.com top fold to differentiate, and asked for Ferran's GitHub email (or superravi to queue a PR). Draft reply is in your dashboard. Thread: https://dvmsuccess.slack.com/archives/C08AD8K48FP/p1780675844691339</description>
 <guid isPermaLink="false">myday-2026-06-12-od-3</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>⚠️ Confirm Friday time with Ravi for the rescheduled call + add to calendar  · overdue</title>
-<description>&lt;i&gt;VetGPT&lt;/i&gt;&lt;br/&gt;You asked to move the Tue Jun 11 call to Friday and Ravi agreed ('Yes let's do Friday'). Propose a Friday time (he's free before 6am PT / after 1pm PT), then put it on the calendar.</description>
+<description>&lt;i&gt;VetGPT&lt;/i&gt;&lt;br/&gt;You asked to move the Tue Jun 11 call to Friday and Ravi agreed ('Yes let's do Friday'). Propose a Friday time (he's free before 6am PT / after 1pm PT), then put it on the calendar. Slack: https://dvmsuccess.slack.com/archives/C08AD8K48FP/p1781123772126199</description>
 <guid isPermaLink="false">myday-2026-06-12-od-4</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 <item>
 <title>Other open tasks (10)</title>
 <description>• Glean MCP [Inbox]&lt;br/&gt;• FidoCure [Inbox]&lt;br/&gt;• Brent follow up (due Jun 17) [Inbox]&lt;br/&gt;• STEM OPT Check In (due Jul 11) [Inbox]&lt;br/&gt;• Decide on Vanta SOC 2 + HIPAA compliance (reply drafted to Joanna) (due Jun 13) [VetGPT]&lt;br/&gt;• Confirm with Lauren: Alchemy Slack channels configured [Alloy]&lt;br/&gt;• Sync with Ferran on thread-based onboarding design (Cleo) [Alloy]&lt;br/&gt;• Schedule Alloy follow-up session: scheduling triggers + testing [Alloy]&lt;br/&gt;• Run org-wide Cleo admin connection flow (Alloy) [Alloy]&lt;br/&gt;• Follow up on Mayo Clinic intro (via Lauren Kellum) [Alloy]</description>
 <guid isPermaLink="false">myday-2026-06-12-later</guid>
-<pubDate>Fri, 12 Jun 2026 11:09:30 -0700</pubDate>
+<pubDate>Fri, 12 Jun 2026 12:09:41 -0700</pubDate>
 </item>
 </channel></rss>
